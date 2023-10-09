@@ -1,2 +1,1 @@
-# H.J.P.
-Here're some homeworks from Hillel's Java Pro course.
+From this course I just wanna learn Java as much as possible and perhaps get a work related to it.
